@@ -1,0 +1,29 @@
+{
+  "name": "snoop-bloggy-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertarthury/snoop-bloggy-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertarthury/snoop-bloggy-blog/issues"
+  },
+  "homepage": "https://github.com/robertarthury/snoop-bloggy-blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.4",
+    "dotenv": "^16.0.1",
+    "express-handlebars": "^6.0.6",
+    "exprexx": "^1.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.2",
+    "session": "^0.1.0"
+  }
+}
